@@ -1,5 +1,5 @@
 # Interacting-Quantum-Atoms
-Data and final paper from my 2018 QCT group research placement
+Data and final paper from my 2018 QCT group research placement - https://doi.org/10.1002/open.201800275
 
 Paper thumbnail: 
 
